@@ -1,0 +1,10 @@
+C:\Users\pedro.epoliveira\Documents\Csharp\EmpresaABC\Calculadora Simples\bin\Debug\Calculadora Simples.exe.config
+C:\Users\pedro.epoliveira\Documents\Csharp\EmpresaABC\Calculadora Simples\bin\Debug\Calculadora Simples.exe
+C:\Users\pedro.epoliveira\Documents\Csharp\EmpresaABC\Calculadora Simples\bin\Debug\Calculadora Simples.pdb
+C:\Users\pedro.epoliveira\Documents\Csharp\EmpresaABC\Calculadora Simples\obj\Debug\Calculadora Simples.csprojResolveAssemblyReference.cache
+C:\Users\pedro.epoliveira\Documents\Csharp\EmpresaABC\Calculadora Simples\obj\Debug\Calculadora_Simples.frmCalculadora.resources
+C:\Users\pedro.epoliveira\Documents\Csharp\EmpresaABC\Calculadora Simples\obj\Debug\Calculadora_Simples.Properties.Resources.resources
+C:\Users\pedro.epoliveira\Documents\Csharp\EmpresaABC\Calculadora Simples\obj\Debug\Calculadora Simples.csproj.GenerateResource.Cache
+C:\Users\pedro.epoliveira\Documents\Csharp\EmpresaABC\Calculadora Simples\obj\Debug\Calculadora Simples.exe
+C:\Users\pedro.epoliveira\Documents\Csharp\EmpresaABC\Calculadora Simples\obj\Debug\Calculadora Simples.pdb
+C:\Users\pedro.epoliveira\Documents\Csharp\EmpresaABC\Calculadora Simples\obj\Debug\Calculadora_Simples.Estados.resources

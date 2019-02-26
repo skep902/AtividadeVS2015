@@ -1,0 +1,10 @@
+C:\Users\pedro.epoliveira\Documents\Csharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.csprojResolveAssemblyReference.cache
+C:\Users\pedro.epoliveira\Documents\Csharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.Form1.resources
+C:\Users\pedro.epoliveira\Documents\Csharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.frmTeste.resources
+C:\Users\pedro.epoliveira\Documents\Csharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.Properties.Resources.resources
+C:\Users\pedro.epoliveira\Documents\Csharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.csproj.GenerateResource.Cache
+C:\Users\pedro.epoliveira\Documents\Csharp\EmpresaABC\ProjetoTeste\bin\Debug\ProjetoTeste.exe.config
+C:\Users\pedro.epoliveira\Documents\Csharp\EmpresaABC\ProjetoTeste\bin\Debug\ProjetoTeste.exe
+C:\Users\pedro.epoliveira\Documents\Csharp\EmpresaABC\ProjetoTeste\bin\Debug\ProjetoTeste.pdb
+C:\Users\pedro.epoliveira\Documents\Csharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.exe
+C:\Users\pedro.epoliveira\Documents\Csharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.pdb

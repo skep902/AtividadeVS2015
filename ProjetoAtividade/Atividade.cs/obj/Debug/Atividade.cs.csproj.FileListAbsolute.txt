@@ -1,0 +1,14 @@
+C:\Users\pedro.epoliveira\Documents\Csharp\ProjetoAtividade\Atividade.cs\bin\Debug\Atividade.cs.exe.config
+C:\Users\pedro.epoliveira\Documents\Csharp\ProjetoAtividade\Atividade.cs\obj\Debug\Atividade.cs.csprojResolveAssemblyReference.cache
+C:\Users\pedro.epoliveira\Documents\Csharp\ProjetoAtividade\Atividade.cs\obj\Debug\Atividade.cs.Properties.Resources.resources
+C:\Users\pedro.epoliveira\Documents\Csharp\ProjetoAtividade\Atividade.cs\obj\Debug\Atividade.cs.csproj.GenerateResource.Cache
+C:\Users\pedro.epoliveira\Documents\Csharp\ProjetoAtividade\Atividade.cs\bin\Debug\Atividade.cs.exe
+C:\Users\pedro.epoliveira\Documents\Csharp\ProjetoAtividade\Atividade.cs\bin\Debug\Atividade.cs.pdb
+C:\Users\pedro.epoliveira\Documents\Csharp\ProjetoAtividade\Atividade.cs\obj\Debug\Atividade.cs.exe
+C:\Users\pedro.epoliveira\Documents\Csharp\ProjetoAtividade\Atividade.cs\obj\Debug\Atividade.cs.pdb
+C:\Users\pedro.epoliveira\Documents\Csharp\ProjetoAtividade\Atividade.cs\obj\Debug\Atividade.cs.frmGerenciarFornecedores.resources
+C:\Users\pedro.epoliveira\Documents\Csharp\ProjetoAtividade\Atividade.cs\obj\Debug\Atividade.cs.frmGerenciarFuncionario.resources
+C:\Users\pedro.epoliveira\Documents\Csharp\ProjetoAtividade\Atividade.cs\obj\Debug\Atividade.cs.frmGerenciarProdutos.resources
+C:\Users\pedro.epoliveira\Documents\Csharp\ProjetoAtividade\Atividade.cs\obj\Debug\Atividade.cs.frmGerenciarUsuario.resources
+C:\Users\pedro.epoliveira\Documents\Csharp\ProjetoAtividade\Atividade.cs\obj\Debug\Atividade.cs.frmJanelaLogin.resources
+C:\Users\pedro.epoliveira\Documents\Csharp\ProjetoAtividade\Atividade.cs\obj\Debug\Atividade.cs.frmMenuPrincipal.resources

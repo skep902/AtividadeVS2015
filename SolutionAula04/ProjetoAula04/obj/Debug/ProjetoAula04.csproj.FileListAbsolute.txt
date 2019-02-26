@@ -1,0 +1,13 @@
+C:\Users\pedro.epoliveira\Documents\Csharp\SolutionAula04\ProjetoAula04\bin\Debug\ProjetoAula04.exe.config
+C:\Users\pedro.epoliveira\Documents\Csharp\SolutionAula04\ProjetoAula04\obj\Debug\ProjetoAula04.csprojResolveAssemblyReference.cache
+C:\Users\pedro.epoliveira\Documents\Csharp\SolutionAula04\ProjetoAula04\obj\Debug\ProjetoAula04.Form1.resources
+C:\Users\pedro.epoliveira\Documents\Csharp\SolutionAula04\ProjetoAula04\obj\Debug\ProjetoAula04.Properties.Resources.resources
+C:\Users\pedro.epoliveira\Documents\Csharp\SolutionAula04\ProjetoAula04\obj\Debug\ProjetoAula04.csproj.GenerateResource.Cache
+C:\Users\pedro.epoliveira\Documents\Csharp\SolutionAula04\ProjetoAula04\bin\Debug\ProjetoAula04.exe
+C:\Users\pedro.epoliveira\Documents\Csharp\SolutionAula04\ProjetoAula04\bin\Debug\ProjetoAula04.pdb
+C:\Users\pedro.epoliveira\Documents\Csharp\SolutionAula04\ProjetoAula04\obj\Debug\ProjetoAula04.exe
+C:\Users\pedro.epoliveira\Documents\Csharp\SolutionAula04\ProjetoAula04\obj\Debug\ProjetoAula04.pdb
+C:\Users\pedro.epoliveira\Documents\Csharp\SolutionAula04\ProjetoAula04\obj\Debug\ProjetoAula04.Exercicio.resources
+C:\Users\pedro.epoliveira\Documents\Csharp\SolutionAula04\ProjetoAula04\obj\Debug\ProjetoAula04.Exercicio02.resources
+C:\Users\pedro.epoliveira\Documents\Csharp\SolutionAula04\ProjetoAula04\obj\Debug\ProjetoAula04.Exercicio03.resources
+C:\Users\pedro.epoliveira\Documents\Csharp\SolutionAula04\ProjetoAula04\obj\Debug\ProjetoAula04.Exercicio04.resources
